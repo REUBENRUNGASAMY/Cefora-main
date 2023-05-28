@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452443930021",
+    "project_id": "cefora-8c5ac",
+    "storage_bucket": "cefora-8c5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452443930021:android:ab8d819f3e8a3748e93c4c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452443930021-02kfal8mb5oi8f1jsv78kmhfhf5ql5qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jeTgUE7gy-fKNDmlNiOJCDRog0DZ9iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452443930021-02kfal8mb5oi8f1jsv78kmhfhf5ql5qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
